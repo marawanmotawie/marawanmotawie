@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marawanmotawie&show_icons=true&theme=tokyonight" alt="Marawan's GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marawanmotawie&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>p>
+</p>
 
 ---
 
